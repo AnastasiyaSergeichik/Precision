@@ -18,7 +18,7 @@
 ## Результаты
 
 1. Некорректное отображение результата суммирования двух дробных чисел (0.3 и 0.6). Результат: 0.8999999999999999
-2. []()
+2. [https://github.com/AnastasiyaSergeichik/Precision/issues/1](https://github.com/AnastasiyaSergeichik/Precision/issues/1)
 
 ## Общие рекомендации
 
